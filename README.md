@@ -35,4 +35,4 @@ Fake News Detector is an advanced machine learning project aimed at combatting t
 When a news is fake 
 ![](SS/1.png)
 when a news id Real
-![](SS/1.png)
+![](SS/2.png)
