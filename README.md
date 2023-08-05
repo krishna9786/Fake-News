@@ -33,5 +33,6 @@ Fake News Detector is an advanced machine learning project aimed at combatting t
 
 ## screenshot
 When a news is fake 
-[](images/Screenshot 2023-08-05 at 7.54.27 PM.png)
+[Link Text](images/1)
 when a news id Real
+[Link Text](images/1)
